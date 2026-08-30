@@ -1,9 +1,0 @@
-{
-  "api": {
-    "baseUrl": "yourbackendurl",
-    "endpoints": {
-      "status": "/api/status",
-      "submitRecovery": "/api/submit-recovery"
-    }
-  }
-}
